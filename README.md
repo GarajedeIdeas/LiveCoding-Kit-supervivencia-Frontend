@@ -1,8 +1,8 @@
 # LiveCoding-Kit-supervivencia-Frontend
 
-## Enlaces de interés
+[Slides que se usaron en la presentación](https://slides.com/sergiozamarrowski/garaje-de-ideas-2023)
 
-* [Slides](https://slides.com/sergiozamarrowski/garaje-de-ideas-2023)
+## Enlaces de interés
 * [Jest](https://jestjs.io/es-ES/)
 * [Cypress](https://www.cypress.io/)
 * [Playwright](https://playwright.dev/)
